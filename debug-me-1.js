@@ -12,3 +12,4 @@ if (BMI > 25 {
 } else {
   console.log("Looks like your height / weight ratio is pretty healthy");
 }
+//test
